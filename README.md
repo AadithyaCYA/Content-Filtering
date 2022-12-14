@@ -15,7 +15,9 @@ How to RUN :
 
 References : 
 
-1)@ganit44
+1)@ganit44.
+
 2) R. Villamarin-Salomon and J. C. Brustoloni, "Identifying Botnets Using Anomaly Detection Techniques Applied to DNS Traffic," 2008 5th IEEE Consumer Communications and Networking Conference, 2008, pp. 476-481, doi: 10.1109/ccnc08.2007.112.
-BotNets - Simply known as Robot network.
+(BotNets - Simply known as Robot network).
+
 3) Z. Wu, M. Xie and H. Wang, "Design and Implementation of a Fast Dynamic Packet Filter," in IEEE/ACM Transactions on Networking, vol. 19, no. 5, pp. 1405-1419, Oct. 2011, doi: 10.1109/TNET.2011.2111381.
